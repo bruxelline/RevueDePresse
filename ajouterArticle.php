@@ -5,7 +5,6 @@
 <title>Rechercher un article</title>
     <link rel="stylesheet" href="./CSS/normalize.css"/>
 	<link rel="stylesheet" href="./css/style.css"/>
-    <link href='http://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="css/core.css"> 
 </head>		
 <body>  
